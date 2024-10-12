@@ -1,0 +1,1 @@
+(trades::columns::created_at, trades::columns::trade_id, trades::columns::symbol, trades::columns::exchange, trades::columns::security_id, trades::columns::exchange_id, trades::columns::side, trades::columns::price, trades::columns::quantity)

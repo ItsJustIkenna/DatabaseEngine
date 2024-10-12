@@ -1,0 +1,1 @@
+InsertStatement<schema::exchanges::table, ValuesClause<(DefaultableColumnInsertValue<ColumnInsertValue<schema::exchanges::columns::exchange, expression::bound::Bound<Text, &std::string::String>>>,), schema::exchanges::table>, query_builder::insert_statement::private::Insert, ReturningClause<expression::select_by::SelectBy<Exchange, _>>>

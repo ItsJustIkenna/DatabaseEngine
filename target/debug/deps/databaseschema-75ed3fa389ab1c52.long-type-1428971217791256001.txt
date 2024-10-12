@@ -1,0 +1,1 @@
+InsertStatement<schema::securities::table, _, query_builder::insert_statement::private::Insert, ReturningClause<diesel::expression::select_by::SelectBy<Trade, Pg>>>

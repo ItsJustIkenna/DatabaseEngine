@@ -1,0 +1,1 @@
+impl std::future::Future<Output = std::result::Result<(tokio_postgres::Client, tokio_postgres::Connection<Socket, <postgres_native_tls::MakeTlsConnector as MakeTlsConnect<Socket>>::Stream>), tokio_postgres::Error>>

@@ -1,0 +1,1 @@
+InsertStatement<schema::partially_filled_sell_order_books::table, _, query_builder::insert_statement::private::Insert, ReturningClause<diesel::expression::select_by::SelectBy<PartiallyFilledBuyOrderBook, Pg>>>

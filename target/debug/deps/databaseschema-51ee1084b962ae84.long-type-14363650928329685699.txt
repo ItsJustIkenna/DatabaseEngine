@@ -1,0 +1,1 @@
+InsertStatement<schema::partially_filled_sell_order_books::table, BatchInsert<Vec<ValuesClause<_, schema::partially_filled_sell_order_books::table>>, schema::partially_filled_sell_order_books::table, (), false>, query_builder::insert_statement::private::Insert, ReturningClause<diesel::expression::select_by::SelectBy<PartiallyFilledBuyOrderBook, Pg>>>

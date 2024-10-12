@@ -1,0 +1,1 @@
+Result<deadpool::managed::Object<AsyncDieselConnectionManager<AsyncDieselConnectionManager<AsyncPgConnection>>>, deadpool::managed::PoolError<diesel_async::pooled_connection::PoolError>>

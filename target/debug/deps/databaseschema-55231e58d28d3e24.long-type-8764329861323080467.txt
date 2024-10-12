@@ -1,0 +1,1 @@
+InsertStatement<schema::securities::table, ValuesClause<(DefaultableColumnInsertValue<ColumnInsertValue<schema::securities::columns::symbol, expression::bound::Bound<Text, &std::string::String>>>,), schema::securities::table>, query_builder::insert_statement::private::Insert, ReturningClause<expression::select_by::SelectBy<Security, _>>>

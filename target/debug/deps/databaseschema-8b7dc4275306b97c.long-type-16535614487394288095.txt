@@ -1,0 +1,1 @@
+InsertStatement<schema::exchanges::table, ValuesClause<(DefaultableColumnInsertValue<ColumnInsertValue<schema::exchanges::columns::exchange, diesel::expression::bound::Bound<diesel::sql_types::Text, &std::string::String>>>,), schema::exchanges::table>, query_builder::insert_statement::private::Insert, ReturningClause<diesel::expression::select_by::SelectBy<Exchange, Pg>>>

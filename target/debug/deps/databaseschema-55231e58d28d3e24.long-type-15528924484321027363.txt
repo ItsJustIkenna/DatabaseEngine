@@ -1,0 +1,1 @@
+SelectStatement<FromClause<schema::exchanges::table>, query_builder::select_clause::DefaultSelectClause<FromClause<schema::exchanges::table>>, query_builder::distinct_clause::NoDistinctClause, query_builder::where_clause::WhereClause<expression::grouped::Grouped<expression::operators::Eq<schema::exchanges::columns::exchange, expression::bound::Bound<Text, std::string::String>>>>>
